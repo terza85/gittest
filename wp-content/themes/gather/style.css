@@ -12,6 +12,7 @@
 	
 */
 
-body{
-	2px solid green;
+
+body {
+    border: 1px solid red;
 }
